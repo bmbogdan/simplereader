@@ -1,13 +1,36 @@
 [{
-		"title": "zz",
+		"title": "Stirea 1",
 		"image": "yyy",
-		"shortDescription": "zzz",
-		"fullText": "zzz"
+		"shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lectus risus, egestas at velit sed, convallis egestas dui. Cras non euismod dui. ",
+		"fullText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lectus risus, egestas at velit sed, convallis egestas dui. Cras non euismod dui. Suspendisse urna lorem, pellentesque non fringilla non, auctor eget nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce et sem mattis, viverra purus eu, iaculis nunc. Mauris quam odio, tincidunt in tristique sit amet, molestie eget tellus. Aliquam non odio sapien. Aenean tincidunt turpis ex, ac tincidunt tortor tincidunt at. Quisque cursus porta odio, in auctor eros elementum ut. Nulla convallis, nisl quis pulvinar sollicitudin, lacus purus ullamcorper nunc, quis feugiat ante risus vel risus. Sed nunc tellus, hendrerit a nunc vel, placerat volutpat justo."
 	},
 	{
-		"title": "zz",
+		"title": "Stirea 2",
 		"image": "yyy",
-		"shortDescription": "zzz",
-		"fullText": "zzz"
+		"shortDescription": "In eget velit a nisl porta tempor. Donec vehicula semper sagittis. ",
+		"fullText": "In eget velit a nisl porta tempor. Donec vehicula semper sagittis. Ut eleifend pellentesque ante et vehicula. Donec pellentesque massa eget diam tempor ultrices. Sed accumsan, mi nec egestas tempus, tellus mi consectetur quam, non cursus leo diam ut nulla. Donec quis vehicula enim. Donec rhoncus efficitur quam, ut pellentesque nisi porttitor id. Vivamus tincidunt ante magna, a mattis mi convallis vitae. Ut ornare, arcu tristique vestibulum congue, dolor mi suscipit erat, eu fermentum ligula velit in libero. Curabitur ut nulla eros. Praesent erat risus, lacinia sed pellentesque rutrum, sollicitudin vel urna."
+	},
+	{
+		"title": "Stirea 3",
+		"image": "yyy",
+		"shortDescription": "Nunc posuere viverra lorem, id elementum augue efficitur id.",
+		"fullText": "Nunc posuere viverra lorem, id elementum augue efficitur id. Morbi feugiat libero nisi, id laoreet dui ornare sit amet. Phasellus fringilla ipsum nec iaculis efficitur. Etiam eget ante eget eros ultricies blandit. Etiam vel ante ultricies tellus egestas pharetra. Quisque ut lectus et velit pellentesque aliquam ut et odio. Suspendisse in enim egestas, vehicula magna sed, tincidunt tortor. Curabitur sagittis erat ac lectus ultrices posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+	}, {
+		"title": "Stirea 4",
+		"image": "yyy",
+		"shortDescription": "Ut eleifend pellentesque ante et vehicula. Donec pellentesque massa eget diam tempor ultrices. ",
+		"fullText": "Ut eleifend pellentesque ante et vehicula. Donec pellentesque massa eget diam tempor ultrices. Sed accumsan, mi nec egestas tempus, tellus mi consectetur quam, non cursus leo diam ut nulla. Donec quis vehicula enim. Donec rhoncus efficitur quam, ut pellentesque nisi porttitor id. Vivamus tincidunt ante magna, a mattis mi convallis vitae. Ut ornare, arcu tristique vestibulum congue, dolor mi suscipit erat, eu fermentum ligula velit in libero. Curabitur ut nulla eros. Praesent erat risus, lacinia sed pellentesque rutrum, sollicitudin vel urna."
+	},
+	{
+		"title": "Stirea 5",
+		"image": "yyy",
+		"shortDescription": "In eget velit a nisl porta tempor. Donec vehicula semper sagittis. ",
+		"fullText": "In eget velit a nisl porta tempor. Donec vehicula semper sagittis. Ut eleifend pellentesque ante et vehicula. Donec pellentesque massa eget diam tempor ultrices. Sed accumsan, mi nec egestas tempus, tellus mi consectetur quam, non cursus leo diam ut nulla. Donec quis vehicula enim. Donec rhoncus efficitur quam, ut pellentesque nisi porttitor id. Vivamus tincidunt ante magna, a mattis mi convallis vitae. Ut ornare, arcu tristique vestibulum congue, dolor mi suscipit erat, eu fermentum ligula velit in libero. Curabitur ut nulla eros. Praesent erat risus, lacinia sed pellentesque rutrum, sollicitudin vel urna."
+	},
+	{
+		"title": "Stirea 6",
+		"image": "yyy",
+		"shortDescription": "Ut eleifend pellentesque ante et vehicula. Donec pellentesque massa eget diam tempor ultrices. ",
+		"fullText": "Ut eleifend pellentesque ante et vehicula. Donec pellentesque massa eget diam tempor ultrices. Sed accumsan, mi nec egestas tempus, tellus mi consectetur quam, non cursus leo diam ut nulla. Donec quis vehicula enim. Donec rhoncus efficitur quam, ut pellentesque nisi porttitor id. Vivamus tincidunt ante magna, a mattis mi convallis vitae. Ut ornare, arcu tristique vestibulum congue, dolor mi suscipit erat, eu fermentum ligula velit in libero. Curabitur ut nulla eros. Praesent erat risus, lacinia sed pellentesque rutrum, sollicitudin vel urna."
 	}
 ]
